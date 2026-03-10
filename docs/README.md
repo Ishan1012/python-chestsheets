@@ -43,3 +43,6 @@ To run the project in your local environment, follow these steps:
 3. Run `start.bat` to open jupyter lab on your browser.
 
 ## 🎥 Video
+
+https://github.com/user-attachments/assets/9fe9e1fb-2a4f-4347-90d3-7937bccd5abb
+
